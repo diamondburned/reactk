@@ -1,0 +1,26 @@
+{
+    "gotk4-nix": {
+        "branch": "main",
+        "description": "Nix development and build utilities for gotk4 development.",
+        "homepage": null,
+        "owner": "diamondburned",
+        "repo": "gotk4-nix",
+        "rev": "3c3421d644c1f3085690780eb154749798bf108f",
+        "sha256": "1l0cxninibi831kkn5ibkrnb0jdvy4w629v11mhmpsws7as03bkw",
+        "type": "tarball",
+        "url": "https://github.com/diamondburned/gotk4-nix/archive/3c3421d644c1f3085690780eb154749798bf108f.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    },
+    "nixpkgs": {
+        "branch": "nixos-unstable",
+        "description": "Nix Packages collection",
+        "homepage": "",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "9c8ff8b426a8b07b9e0a131ac3218740dc85ba1e",
+        "sha256": "1c112x375lmp5h1l93xasbn0faxf7mqhk2nypwvm47mq9gxl8lq1",
+        "type": "tarball",
+        "url": "https://github.com/NixOS/nixpkgs/archive/9c8ff8b426a8b07b9e0a131ac3218740dc85ba1e.tar.gz",
+        "url_template": "https://github.com/<owner>/<repo>/archive/<rev>.tar.gz"
+    }
+}
